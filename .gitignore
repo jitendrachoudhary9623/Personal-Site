@@ -59,7 +59,7 @@ typings/
 # gatsby files
 .cache/
 public
-
+.nvmrc
 # Mac files
 .DS_Store
 
