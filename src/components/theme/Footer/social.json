@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/jitendra-choudhary-14920714b/",
+    "icon": "/icons/linkedin.svg"
+  },
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/jitendrasteam",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 2,
+    "name": "Twitter",
+    "link": "https://twitter.com/jitendra93266",
+    "icon": "/icons/twitter.svg"
+  }
+]

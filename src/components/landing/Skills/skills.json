@@ -1,0 +1,13 @@
+{
+  "skills": [
+    { "id": 0, "name": "Javascript", "level": 6 },
+    { "id": 1, "name": "Python", "level": 7 },
+    { "id": 2, "name": "Java", "level": 8 },
+    { "id": 3, "name": "React", "level": 6 },
+    { "id": 4, "name": "NodeJs", "level": 6 },
+    { "id": 5, "name": "Tensorflow", "level": 6 },
+    { "id": 6, "name": "Django", "level": 6 },
+    { "id": 7, "name": "Flask", "level": 8 },
+    { "id": 8, "name": "Android", "level": 9 }
+  ]
+}

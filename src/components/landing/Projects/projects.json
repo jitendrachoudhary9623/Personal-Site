@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "title": "Boongg.com Android App",
+      "subtitle": "Boongg App for Booking Boongg bikes",
+      "description": "BOONGG.COM is India's fastest growing bike & scooter rental company with a mission of easy access to local commute and easy travel inside the city. BOONGG.COM - Bike Rental will allow you to travel pocket-friendly & freely visit each point in the city. Renting Bikes will be congestion-free from current city traffic.",
+      "imageUrls": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/2103064-original.",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/2103065-original."
+      ],
+      "featureImage": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/2103065-original."
+      ],
+      "projectLink": "https://play.google.com/store/apps/details?id=com.boongg.demo&hl=en",
+      "technologies": ["Android", "NodeJS", "Firebase", "Google Maps"],
+      "teammates": []
+    },
+    {
+      "id": 1,
+      "title": "AI based Interviewbot",
+      "subtitle": "A chatbot which takes your interview",
+      "description": "A web app which uses chatbot for conducting mock interviews along with emotion and sentiment analysis and report generation in real time.",
+      "imageUrls": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/6635e96c62952a16149ba25debeaf64d-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/5344df7459e0f39d7c79145d572ff6b7-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/3ba24d3295871531c1a873da372e7dd1-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/9cf808dcee1996d51b0e0ac84cc42aba-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/4f97ca28d8c8d43f12aa17e9c54f98ac-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/8bd38374d43dce8480f51be9ae630bc2-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/1e4d97ba39a919f2e3adefec78507bba-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/41281d1f21300c1ea572664f63f7e7ba-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/823dc3c282a2ca08af9488e83e703704-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/71a0d7f28c8354642149629e8f775ea9-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/aaf30060b842e43a2f434fad3fbfaae8-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/1a7f5bdfb00b8a32181d550c62de97c7-original.png",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/c7918a35d812db2e29a9718658a90725-original.png"
+      ],
+      "featureImage": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/Project/c7/916830/9a02231d5a3b6399873bfc02b5d69941-original.png"
+      ],
+      "projectLink": "https://interviewbot2.herokuapp.com/",
+      "technologies": [
+        "Flask",
+        "MongoDB",
+        "Tensorflow",
+        "Javascript",
+        "Heroku"
+      ],
+      "teammates": []
+    },
+    {
+      "id": 3,
+      "title": "Knowmovies Android App",
+      "subtitle": "Movies app for everyone to download",
+      "description": "Know Movies uses TheMovieDB to fetch the dataKnow Movies allows user to explore the movie details,watch trailers and read reviewsThe App also provides Favorite Features in which user can add movies to their Favorites",
+      "imageUrls": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1499416-original.",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1499415-original.",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1499414-original.",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1499413-original."
+      ],
+      "featureImage": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1499416-original."
+      ],
+      "projectLink": "https://play.google.com/store/apps/details?id=com.Jitendra93266.jitu.knowmovies",
+      "technologies": ["Android", "Java"],
+      "teammates": []
+    },
+    {
+      "id": 4,
+      "title": "Musico",
+      "subtitle": "Music player App",
+      "description": "A Music Player App which lets you play next music by shaking the phone as well as adding as a beautiful UI",
+      "imageUrls": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500117-original.",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500119-original.",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500118-original.",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500116-original."
+      ],
+      "featureImage": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500117-original."
+      ],
+      "projectLink": "https://play.google.com/store/apps/details?id=com.musico.jitcodez.musico",
+      "technologies": ["Android", "Kotlin"],
+      "teammates": []
+    },
+    {
+      "id": 5,
+      "title": "Bakery App",
+      "subtitle": "Simple Recipe App",
+      "description": "An App for Sweets lover, The app have recipes of the best sweets recipes with the videos guiding you, The App also have Widget Accompanying For Presenting the Ingredients while you to shopping. Happy Cooking!!",
+      "imageUrls": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500122-original.",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500121-original.",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500123-original."
+      ],
+      "featureImage": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500122-original."
+      ],
+      "projectLink": "https://play.google.com/store/apps/details?id=com.bakery_app.jitcodez.bakeryapp",
+      "technologies": ["Android", "Java"],
+      "teammates": []
+    },
+    {
+      "id": 6,
+      "title": "Quiz App",
+      "subtitle": "Java Quiz App with a web module",
+      "description": "Features : * Chapter wise complete Java Tutorials* Programs for better understanding (100+ programs)* Output for each program * Categorized Questions and Answers* Practice Quiz* Very simple User Interface* One click share (Tutorials and Programs)* Daily updating contents of app*And Much More!*Daily adding new questions,programs,quiz* Any one can take a short test and check their programming skills.* It helps new Java and Android developer to increase their java programming skill.* Unlimited Access throughout the app* Offline Mode*New features coming soon..The Java programming language requires the presence of a software platform in order for compiled programs to be executed.",
+      "imageUrls": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500134-original.",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500133-original.",
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500132-original."
+      ],
+      "featureImage": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500134-original."
+      ],
+      "projectLink": "https://play.google.com/store/apps/details?id=com.quizapp.shritech.quizapp",
+      "technologies": ["Javascript", "Django", "Android", "Java"],
+      "teammates": []
+    },
+    {
+      "id": 7,
+      "title": "Hindii SMS App",
+      "subtitle": "Created as a Freelancing project for a small company",
+      "description": "Developer, Java, Android Studio, Xml · App Features:-✔ Now Added the Most Demanded Emoji Support.✔ Share Any Message to Your Loved One and Friends with WhatsApp, Hike, Facebook or any Messaging App.✔ Largest FREE Message collection in smallest app-size!✔ This Offline app works without internet connection.✔ Daily Updated with Fresh and Trending Message Collection.✔ New Fresh and Friendly User GUI with Amazing Material Design✔ Copy to Clipboard feature to copy & paste the Marathi Message.✔Completely Offline & FREE collection of Hindi SMS to share with your friends.",
+      "imageUrls": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500144-original."
+      ],
+      "featureImage": [
+        "https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1500144-original."
+      ],
+      "projectLink": "https://play.google.com/store/apps/details?id=com.shri.hindismsforall",
+      "technologies": ["Android", "Java"],
+      "teammates": []
+    }
+  ]
+}
